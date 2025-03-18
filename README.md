@@ -1,10 +1,4 @@
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-- Advanced : Scikit-learn, TensorFlow (keras), PyTorch (PyTorch-Lightning, DeepSpeed), CUDA
-- Intermediate : OpenCV, MPI4py
-- Beginner : Docker, Java
-
-Parcels, AstroPy, Adobe LightRoom, AutoCAD, Autodesk CFD, Fusion360, Xming, PuTTY
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 *VSC Vim extension is hype*
 
