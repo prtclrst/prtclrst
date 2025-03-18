@@ -3,7 +3,7 @@
 - AI : Scikit-learn, TensorFlow (keras), PyTorch (PyTorch-Lightning, DeepSpeed), CUDA, MPI4py, OpenCV, Huggingface
 - OS : Kali linux
 - IDE: VSC, Vim, Git
-- +) Docker, Java, Parcels, AstroPy, Adobe LightRoom, Aladin, DeepSkyStack, AutoCAD, Autodesk CFD, Fusion360, Xming, PuTTY
+- +) Docker, Java, Parcels, AutoCAD, Autodesk CFD, Fusion360, Xming, PuTTY
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
 
