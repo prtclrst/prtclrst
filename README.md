@@ -7,8 +7,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bllacovvqso)](https://solved.ac/bllacovvqso/)
 
-*VSC Vim extension is hype*
-
 ### Projects
 - cvxinvKAN : Extended research after ISEF '24 Physics and Astronomy
 - NeuralODE code refactoring.
