@@ -6,3 +6,5 @@ Hello. I am a student interested in quantitative trading. Checkout my [CV](https
 
   <a href="https://github.com/Gyvichi/github-readme-activity-graph"><img alt="Gyvichi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Gyvichi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
+
+![Codeforces Rating Graph](https://le0pard.dev/cf-rating-graph/?user=blyank)
