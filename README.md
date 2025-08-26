@@ -1,4 +1,4 @@
-Hello. I am a student interested in quantitative trading from South Korea. Checkout my [CV](https://gyvichi.github.io/cv/).
+Hello. I am a student interested in quantitative trading from South Korea. Checkout my [CV](https://sssyvsps.wordpress.com/resume-curriculum-vitae/).
 
 I usually work with discord : https://discord.com/users/996620884674613320
 
